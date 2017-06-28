@@ -1,5 +1,32 @@
-A comparative analysis of cross-platform development approaches for mobile applications
+[d][118]Real Challenges in Mobile App Development
+http://ieeexplore.ieee.org/abstract/document/6681334/
+{Based
+on our findings of the current practices and challenges, we
+highlight areas that require more attention from the research
+and development community}
+
+[d][28]Cross-Platform Mobile Development: Challenges and Opportunities
+https://link.springer.com/chapter/10.1007%2F978-3-319-01466-1_21
+{The results of this work indicate that even though cross platform tools are not fully
+matured they show great potential and reduce the cost associated in developing native
+mobile applications}
+
+[d][83]A comparative analysis of cross-platform development approaches for mobile applications
 http://dl.acm.org/citation.cfm?id=2490292
+{Thirdly, taking into account the current status 
+in cross-platform mobile app development we identify
+a promising cross-platform app type and we investigate its effectiveness in practice}
+
+[d][83]Native Apps vs. Mobile Web Apps
+https://scholar.google.co.nz/scholar?cites=7174245714610587203&as_sdt=2005&sciodt=0,5&hl=en
+{The conclusion from this study is that mobile web applications
+that require hardware interaction such as using the GPS,
+GPU, or camera are not yet viable alternatives for native
+applications. However, mobile applications that only require
+a native interface and content consumption are suitable
+substitutes for native applications}
+
+
 
 The Good and The Bad of Xamarin Mobile Development
 https://www.altexsoft.com/blog/mobile/the-good-and-the-bad-of-xamarin-mobile-development/
